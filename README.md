@@ -3,3 +3,5 @@
 Tutorial de uso das ferramentas Git e Github
 ## Autor 
 Gustavo Lima Tavares
+## Palylist
+[iniciar tutorial](https://joseassis.com.br/cursos.html)
